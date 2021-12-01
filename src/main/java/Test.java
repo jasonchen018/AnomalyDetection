@@ -33,6 +33,12 @@ public class Test {
                 n++;
             }
 
+            // todo feature2
+<<<<<<< HEAD
+            // todo feature 2 again
+=======
+>>>>>>> ab2454c (Add feature2.)
+
             System.out.println();
             double[] sample = {50, 50};
             int label = iForest.predict(sample);
